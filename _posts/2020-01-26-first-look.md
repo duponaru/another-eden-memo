@@ -76,7 +76,7 @@ CT、CC讲了一个星球内的故事，而XG的剧情之所以称神原因之�
 那么Anaden呢：劫初之时后数十万年+可能已经被修改过的时间线，Aldo的冒险开始。
 而所谓的“劫”是什么？又是一个可以进一步往前追溯时间的事件，星梦馆的种种也似乎表明制作组有类似星际设定的意思。
 
-【4】世界的故事和主角的故事
+# 4. 世界的故事和主角的故事
 任务（Quest，读作打杂）是角色扮演游戏故事的核心，而那个最主要的任务在传统游戏中万变不离其宗：勇者为救公主战魔王-->救世界。能在这个框架下玩出花样的被称为神作。
 CT：勇者和魔王一起穿越时空救公主未果但救了世界；
 CC：勇者和公主穿越时层战勇者继续救公主救世界；
@@ -100,7 +100,7 @@ XG：勇者和公主多重轮回战公主救世界
 
 
 第二部相关碎碎念  
-镜子碎片构图的主视觉图有强烈的small two of pieces ～軋んだ破片～画面感（作词：加藤正人桑）  
+镜子碎片构图的主视觉图有强烈的small two of pieces ～軋んだ破片～画面感   
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/keyvisual.png' | relative_url }}" alt="" /></span>
 <!-- ![v2 key visual art](/assets/post_img/2020-01-26/keyvisual.png)   -->
 *Broken mirror, a million shades of light*  
