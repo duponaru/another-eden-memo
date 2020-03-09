@@ -23,7 +23,7 @@ layout: post
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/timeline_cc.png' | relative_url }}" alt="" /></span>
 <!-- ![CC timeline](/assets/post_img/2020-01-26/timeline_cc.png) -->
 
-【Xenogears】
+【Xenogears】  
 庞大的科幻设定和神学、心理学、哲学引用，考据党福音。你问世界观设定有多庞大？这一部只讲了一个六章节小说的第五章，即整个时间轴中的一小段，参看下图设定资料：
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/timeline_xg1.jpg' | relative_url }}" alt="" /></span>
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/timeline_xg2.jpg' | relative_url }}" alt="" /></span>
