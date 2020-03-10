@@ -33,9 +33,9 @@
 title: duponaru
 # subtitle: Fishing at Interdimensional Shift
 description: >- # this means to ignore newlines until "baseurl:"
-  -
+  -  
 author: duponaru
-avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/another-eden-memo.github.io" # the subpath of your site, e.g. /blog
@@ -54,8 +54,8 @@ url: "" # the base hostname & protocol for your site
 # slack_url:
 # dribbble_url:
 
-# Google Analytics Tracking ID goes here:
-google_analytics:
+# # Google Analytics Tracking ID goes here:
+# google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
