@@ -58,7 +58,7 @@ tags: [Cucutrouge, flower, witch, Nopeaw, law, chaos, king]
 Geo metal半衰期=世界树开花频度=2万年  
     
 
-【3】其他未解之谜
+【3】其他未解之谜  
 （1）“地藏像”的由来？
 （2）古代Vega之森与Breeno一族关系？
 （3）森林守护者一族的去向？
