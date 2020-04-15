@@ -53,8 +53,8 @@ url: "" # the base hostname & protocol for your site
 # slack_url:
 # dribbble_url:
 
-# # Google Analytics Tracking ID goes here:
-# google_analytics:
+# Google Analytics Tracking ID goes here:
+google_analytics: UA-163735646-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
