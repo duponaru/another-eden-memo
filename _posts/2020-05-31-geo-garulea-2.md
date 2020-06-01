@@ -1,5 +1,5 @@
 ---
-title: 地域考察6：现代Garulea吕国
+title: 地域考察7：现代Garulea吕国
 author: duponaru
 layout: post
 categories: [geography, culture]

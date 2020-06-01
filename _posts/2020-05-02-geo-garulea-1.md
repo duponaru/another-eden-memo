@@ -1,5 +1,5 @@
 ---
-title: 地域考察5：现代Garulea大陆
+title: 地域考察6：现代Garulea大陆
 author: duponaru
 layout: post
 categories: [geography, culture]
