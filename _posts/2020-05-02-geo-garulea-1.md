@@ -2,8 +2,8 @@
 title: 地域考察5：现代Garulea大陆
 author: duponaru
 layout: post
-categories: [timeline]
-tags: [phantom, alchemy]
+categories: [geography, culture]
+tags: [AD300, Garulea]
 ---
 
 **注意**  
