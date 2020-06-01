@@ -11,7 +11,7 @@ order: 3
   <ul>
     {% for post in category[1] %}
       <!-- <li><a>{{ post.title }}</a></li> -->
-      <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
