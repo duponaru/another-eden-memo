@@ -3,7 +3,7 @@ title: 地域考察6：现代Garulea大陆
 author: duponaru
 layout: post
 categories: [geography, culture]
-tags: [AD300, Garulea]
+tags: [AD300, Garulea, continent, map]
 ---
 
 **注意**  
