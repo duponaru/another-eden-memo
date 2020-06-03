@@ -6,21 +6,31 @@ icon: fa-book
 order: 2
 ---
 
-<!-- <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul> -->
-{% assign sorted_cats = site.categories | sort %}
-{% for category in sorted_cats %}
-<!-- {% for category in site.categories %} -->
+<!-- {% assign sorted_cats = site.categories | sort %} 
+{% for category in sorted_cats %} 
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
-      <!-- <li><a>{{ post.title }}</a></li>     -->
+      <li><a>{{ post.title }}</a></li>    
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+{% endfor %} -->
+
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
 {% endfor %}
+</div>
