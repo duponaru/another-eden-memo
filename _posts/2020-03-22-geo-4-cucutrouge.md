@@ -3,7 +3,7 @@ title: 地域考察4:Cucutrouge之地，大树之地
 author: duponaru
 layout: post
 categories: [in space]
-tags: [BC???, BC20010, BC20000,BC3000, AD300,AD900, AD1000, AD1100, Cucutrouge, Migleina, flower, Tree, Dogma Tower, Rucyanna Ruins,Vega Forest, Gadaro, nopeaw, elf, law, chaos, Palsifal King, Reptires, Sofia, Ratchett, Anguisse, Rildy, Setaka, Vaan, Cyrus, Himika, Nimloth, Macminal, Senator,Breeno, Benedict, book, Geo Metal, Ogre Rancorem, sword, timeline]
+tags: [BC20010, BC20000,BC3000, AD300,AD900, AD1000, AD1100, Cucutrouge, Migleina, flower, Tree, Dogma Tower, Rucyanna Ruins,Vega Forest, Gadaro, nopeaw, elf, law, chaos, Palsifal King, Reptires, Sofia, Ratchett, Anguisse, Rildy, Setaka, Vaan, Cyrus, Himika, Nimloth, Macminal, Senator,Breeno, Benedict, book, Geo Metal, Ogre Rancorem, sword, timeline]
 ---
 
 **注意**  
