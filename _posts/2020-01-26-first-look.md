@@ -2,6 +2,8 @@
 title: Anaden世界初探
 author: duponaru
 layout: post
+categories: [story]
+tags: [timeline, BGM]
 ---
 
 **注意**  

@@ -3,7 +3,7 @@ title: 地域考察6：现代Garulea大陆
 author: duponaru
 layout: post
 categories: [in space]
-tags: [BC20100, BC20000, AD300, Garulea, map, Prisma, religion, technology, climate, cat, shinobi, Kunoichi, Fleareth, samurai, Shin, Mi, Ro, imp, ghost, Ikarga, Konium, Golem, Garneli, Goddess of Time, Natore, Felmina, stone, elf, Ogre Rancorem, 12]
+tags: [BC20100, BC20000, AD300, Garulea, map, Prisma, religion, technology, climate, cat, shinobi, Kunoichi, Fleareth, samurai, Shin, Mi, Ro, imp, ghost, Ikarga, Konium, Golem, Garneli, Goddess of Time, Natore, Felmina, stone, elf, Ogre Rancorem, twelve]
 ---
 
 **注意**  
