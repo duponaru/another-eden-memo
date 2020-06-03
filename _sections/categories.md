@@ -6,8 +6,8 @@ icon: fa-book
 order: 2
 ---
 
-<!-- {% assign sorted_cats = site.categories | sort %} 
-{% for category in sorted_cats %} 
+<!-- {% assign sorted_cats = site.categories | sort %}  -->
+{% for category in site.categories %} 
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
@@ -15,9 +15,9 @@ order: 2
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-{% endfor %} -->
+{% endfor %}
 
-<div id="archives">
+<!-- <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -33,4 +33,4 @@ order: 2
     {% endfor %}
   </div>
 {% endfor %}
-</div>
+</div> -->
