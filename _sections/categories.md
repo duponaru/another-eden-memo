@@ -13,10 +13,9 @@ order: 2
     </li>
   {% endfor %}
 </ul> -->
-<!-- {% assign sorted_cats = site.categories | sort %} -->
-<!-- {% for category in sorted_cats %} -->
-{% for category in site.categories %}
-
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+<!-- {% for category in site.categories %} -->
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
