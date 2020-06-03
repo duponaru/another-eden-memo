@@ -2,8 +2,8 @@
 title: Anaden世界初探
 author: duponaru
 layout: post
-categories: [story]
-tags: [timeline, BGM]
+categories: [in time]
+tags: [timeline, music]
 ---
 
 **注意**  
@@ -23,15 +23,11 @@ tags: [timeline, BGM]
 【Chrono Cross】  
 在CT基础上更丰富的队友选择和随之变化的剧情对话，以及更为复杂的Another World（异时层）设定，参看Chrono Compendium上网友整理的时间线：
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/timeline_cc.png' | relative_url }}" alt="" /></span>
-<!-- ![CC timeline](/assets/post_img/2020-01-26/timeline_cc.png) -->
 
 【Xenogears】  
 庞大的科幻设定和神学、心理学、哲学引用，考据党福音。你问世界观设定有多庞大？这一部只讲了一个六章节小说的第五章，即整个时间轴中的一小段，参看下图设定资料：
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/timeline_xg1.jpg' | relative_url }}" alt="" /></span>
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/timeline_xg2.jpg' | relative_url }}" alt="" /></span>
-<!-- ![CC timeline](/assets/post_img/2020-01-26/timeline_xg1.jpg)
-![CC timeline](/assets/post_img/2020-01-26/timeline_xg2.jpg) -->
-
 
 
 
@@ -39,11 +35,10 @@ tags: [timeline, BGM]
 截止2.3版本，除了游戏界面外能对这个问题提供最多信息的是1.0时层回廊的boss时层扭曲（随血条减少会依次显示关键年代节点）：
 
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/boss.png' | relative_url }}" alt="" /></span>
-<!-- ![boss](/assets/post_img/2020-01-26/boss.png) -->
 
 结合外传断章等信息可以整理得到以下关键时点和对应年代称呼（暂时仅关注时间忽略时层）：
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/timeline_1.png' | relative_url }}" alt="" /></span>
-<!-- ![AE time points](/assets/post_img/2020-01-26/timeline_1.png) -->
+
 *其中黄色高亮为目前可探索时代；AD2100为伪娘断章异时层提到，是目前为止涉及剧情的最远时间点。*  
 
 不难发现你猫是怀有时空系列和异度系列那样万年以上大跨度史诗叙事的梦想的，逐渐展开的未知世界观也正是rpg冒险乐趣之一。各个时代都有怎样的文明背景和权力博弈？之后会分别考察。  
@@ -57,9 +52,8 @@ tags: [timeline, BGM]
 
 实际在玩家操作上，CC中虽然能跨时层转移但并不能像CT一样在不同时代间穿越，而你猫1.0剧情以时间穿越为主，在2.3外传更新后时层穿越操作实装，剧情确定的时层目前大致有四条：
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/timeline_3.png' | relative_url }}" alt="" /></span>
-<!-- ![AE time line](/assets/post_img/2020-01-26/timeline_3.png) -->
 
-- 时层3.1：无名少女来源；  
+- 时层3.1：无名少女来源；   
 - 时层7：当前主线所在；  
 - 时层8：2.3外传开放时层；  
 - 时层9：Ciel断章提及一家来源时层  
@@ -104,10 +98,10 @@ XG：勇者和公主多重轮回战公主救世界
 第二部相关碎碎念  
 镜子碎片构图的主视觉图有强烈的small two of pieces ～軋んだ破片～画面感   
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/keyvisual.png' | relative_url }}" alt="" /></span>
-<!-- ![v2 key visual art](/assets/post_img/2020-01-26/keyvisual.png)   -->
+  
 *Broken mirror, a million shades of light*  
 
 以及，是那位女神兑现遥远约定的时候了？  
 <span class="image centered"><img src="{{ '/assets/post_img/2020-01-26/cc_ending.png' | relative_url }}" alt="" /></span>
-<!-- ![Sometime](/assets/post_img/2020-01-26/cc_ending.png)    -->
+  
 *别处别时，互不经意，定再相见*

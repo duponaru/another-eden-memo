@@ -3,7 +3,7 @@ title: 时域考察1:元素演化史&纪年
 author: duponaru
 layout: post
 categories: [in time]
-tags: [BC100000, BC20000, BC100, AD1, AD300, AD700, AD1000, AD1100, Elemental, law, chaos, timeline, stone, Ogre Rancorem, Geo Prisma, Kiseki, Tree, Prisma, Titan, sword, Xeno Prisma, Chrono, beast]
+tags: [BC100000, BC20000, BC100, AD1, AD300, AD700, AD1000, AD1100, Elemental, law, chaos, timeline, stone, Ogre-Rancorem, Geo-Prisma, Kiseki, Tree, Prisma, Titan, sword, Xeno-Prisma, Chronos, beast]
 ---
 
 **注意**  
