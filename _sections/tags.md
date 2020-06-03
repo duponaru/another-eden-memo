@@ -6,7 +6,8 @@ icon: fa-book
 order: 3
 ---
 
-{% for category in site.tags %}
+{% assign sorted_tags = site.tags | sort %}
+{% for category in sorted_tags %}
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
