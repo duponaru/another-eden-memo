@@ -2,8 +2,8 @@
 title: 地域考察7：现代Garulea吕国
 author: duponaru
 layout: post
-categories: [geography, culture]
-tags: [AD300, Garulea]
+categories: [in space]
+tags: [AD300, Garulea, timeline, Shin, Mi, Ro, Ikarga, Akane, Shion, Garneli, Genshin, Tsukiha, Suzaku, Yukino, ghost, imp, Goddess of Time, Prisma]
 ---
 
 **注意**  

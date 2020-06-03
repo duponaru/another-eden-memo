@@ -1,9 +1,9 @@
 ---
-title: 地域考察5：Gewuerz教会本部
+title: 地域考察5：古代Zelveria大陆教会
 author: duponaru
 layout: post
-categories: [geography]
-tags: [Zelveria]
+categories: [in space]
+tags: [BC20000, AD300, Zelveria, religion, flower, architecture, technology, music, prisma, Gewuerz, beast]
 ---
 
 **注意**  
