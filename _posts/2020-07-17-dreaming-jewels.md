@@ -3,7 +3,7 @@ title: 意象的意象：梦见的宝石
 author: duponaru
 layout: post
 categories: [Reference]
-tags: [Kato-Masato, stone, sword, Prisma, Xeno-Prisma, eden, Prism]
+tags: [Kato-Masato, stone, sword, Prisma, Xeno-Prisma, eden, Prism, Synth-Human]
 ---
 
 **注意**  
@@ -21,7 +21,7 @@ tags: [Kato-Masato, stone, sword, Prisma, Xeno-Prisma, eden, Prism]
 1）外星“矿物生命体”Lavos：收集寄生的星球上所有生物的遗传信息，产生含有这些遗传信息的后代；  
 2）冰冻之炎：Lavos身体一部分的结晶，真・冰冻之炎能促进生物“变化”／进化；   
 3）梦石（Dream Stone）：圣／魔剑Grandorion(=Grand Orion=坠落地上的猎户星)、Marle的挂坠、魔神器的制作原料，和冰冻之炎同源；    　　
-4）CC人物致敬：Kid（日语发音Kiddo）原型为小说中的Kiddo，致敬元素包括手套、假小子性格和“オレ”自称； Schala Zeal原型为小说中的Zena（？），Schala “Kid” Zeal可能致敬Zena和Kiddo的关系；Serge原型为小说中的Horty，Serge作为星球与Lavos间调停者对应Horty作为人类与宝石间沟通媒介。    
+4）CC人物致敬：Kid（日语发音Kiddo）原型为小说中的Kiddo，致敬元素包括手套、假小子性格和“オレ”自称； Schala Zeal原型为小说中的Zena（？），Schala “Kid” Zeal可能致敬Zena和Kiddo的关系；Serge原型为小说中的Horty（？），Serge作为星球与Lavos间调停者对应Horty作为人类与宝石间沟通媒介。    
 
 【AE】  
 回到你猫，之前有提过[prisma（稜晶）相关]({{ site.baseurl }}{% post_url 2020-07-05-time-4 %})，迟迟没能解读传说中的加藤note。这次配合梦见宝石设定看加藤桑关于prisma、xeno prisma的初期设定案就很有意思了：  
@@ -35,4 +35,7 @@ tags: [Kato-Masato, stone, sword, Prisma, Xeno-Prisma, eden, Prism]
 
 【有点歪楼了的TL;DR】  
 《梦见的宝石》可能是CT、CC、AE三作意象所共有的元意象，其中加藤桑主导的CC致敬元素最多，也用另一种表达传递了和小说异曲同工的关于爱与憎、艺术、人生的哲思。基于小说可能可以对游戏世界观设定有所补充。  
+
+2020-07-31:  
+P.S 梦见的宝石又名 The Synthetic Human --> 合成人类致敬出处， Helena、Galliard相关。  
 
